@@ -1,2 +1,1 @@
-# web
- 
+This is my website that uses CSS, JS, and HTML. On this website, I'll post more information about my projects, while sharing information about my life. This is a starter for me in front end web devolpment, so expect this project to update constantly. If you would like to view the website: https://zainnartech.com/web/
